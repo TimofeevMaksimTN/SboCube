@@ -5,7 +5,7 @@
 ## <u>Главная страница сайта:</u>
 <img src="https://github.com/TimofeevMaksimTN/SboCube/blob/main/SboCube/ГлавнаяСтраница.JPG?raw=true"></img>
 <img src="https://github.com/TimofeevMaksimTN/SboCube/blob/main/SboCube/ГлавнаяСтраница1.JPG?raw=true"></img>
-<img src="ГлавнаяСтраница2.jpg"></img>
+<img src="https://github.com/TimofeevMaksimTN/SboCube/blob/main/SboCube/ГлавнаяСтраница2.JPG?raw=true"></img>
 ## <u>Сайт выполняет 3 функции:</u>
 * Спортивно информационное обеспечение мероприятия (публицкация списка команд-участников соревнования, публикация турнирных таблиц, публикация кароточек участников мероприятия);
 * Общее информационное освещение мероприятия (публикация фото, видео и новостных материалов, прямые трансляции с места проведения мероприятия);
